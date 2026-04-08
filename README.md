@@ -63,15 +63,18 @@ Wireshark • Burp Suite • Nmap • CyberChef • ExifTool • binwalk • zst
 
 ---
 
-## 🧩 My Approach to Security
+## 🧠 Offensive Security Workflow
 
-```mermaid
-flowchart LR
-    A[Recon] --> B[Analyze]
-    B --> C[Find Weakness]
-    C --> D[Exploit]
-    D --> E[Gain Access]
-```
+``mermaid
+flowchart TD
+    A[🎯 Understand Target] --> B[🔍 Reconnaissance]
+    B --> C[📊 Analyze Data]
+    C --> D[🧩 Identify Vulnerabilities]
+    D --> E[⚔️ Exploitation]
+    E --> F[🔓 Privilege Escalation]
+    F --> G[📡 Maintain Access / Persistence]
+    G --> H[📤 Data Exfiltration]
+    H --> I[🧾 Reporting & Documentation]
 
 ---
 
