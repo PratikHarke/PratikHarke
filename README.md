@@ -8,7 +8,7 @@
 
 ## 🏆 Achievements
 
-* 🥇 Ranked **Top 1% Globally** in VishwaCTF 2026
+* 🥇 Ranked **Top 1% Globally** on TryHackMe
 * 🧠 Solved challenges across Web, Crypto, Forensics & OSINT
 
 ---
