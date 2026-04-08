@@ -44,14 +44,17 @@
 ## 🛠️ Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,linux,bash,git,github" />
 </p>
 
-### 🔐 Security
-Burp Suite • Nmap • Nessus • Wireshark • Metasploit • TheHarvester • Hashcat  
+### 🔐 Security Tools  
+Burp Suite • Nmap • Nessus • Wireshark • Metasploit • TheHarvester • Hashcat • Zenmap • Subjs  
 
-### 📊 SIEM
+### 📊 SIEM & Monitoring  
 Wazuh • Splunk  
+
+### 🧩 Core Domains  
+Web Security • Network Security • Vulnerability Assessment • SIEM Monitoring  
 
 ---
 
