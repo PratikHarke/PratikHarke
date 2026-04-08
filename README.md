@@ -1,52 +1,57 @@
 # 🚀 Pratik Harke | Cybersecurity Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;CTF+Player;Top+1%25+VishwaCTF+2026;Future+Security+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;CTF+Player;Top+1%25+TryHackMe;Aspiring+Cybersecurity+Analyst&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CTF-VishwaCTF%202026-blue" />
-  <img src="https://img.shields.io/badge/Rank-Top%201%25-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" />
+  <img src="https://img.shields.io/badge/Status-Active%20Learner-brightgreen" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Ranked **Top 1% Globally** in VishwaCTF 2026  
-- 🧠 Solved challenges across Web, Crypto, Forensics & OSINT  
+- 🥇 Ranked **Top 1% Globally on TryHackMe**  
+- 🧠 Completed multiple hands-on labs across Web, Network & Security domains  
+- 🏁 Finalist at Kurukshetra 2025 Hackathon  
 
 ---
 
 ## 🔐 About Me
 
 - Passionate about **breaking & securing systems**  
-- Focused on **Web Exploitation & Network Security**  
-- Currently learning **Cloud Security & Kubernetes Security**  
+- Focused on **Web Exploitation, Network Security & Vulnerability Assessment**  
+- Hands-on experience with **SIEM & security monitoring (Wazuh, Splunk)**  
 
-💡 Passionate about solving real-world security problems through hands-on practice and CTF challenges.
+💡 Passionate about solving real-world security problems through hands-on labs and CTF challenges.
 
 ---
 
 ## 🧠 Skills
 
-- 🌐 Web Exploitation (SSRF, XXE, Header Injection)  
+- 🌐 Web Exploitation (SSRF, XXE, Injection)  
 - 📡 Network Analysis (PCAP, DNS, ICMP)  
 - 🔐 Cryptography  
 - 🕵️ OSINT  
-- 🧪 Reverse Engineering (basic)  
+- 🧪 Vulnerability Assessment  
+- 📊 SIEM Monitoring & Log Analysis  
 
 ---
 
 ## 🛠️ Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github" />
 </p>
 
 **Security Tools:**  
-Wireshark • Burp Suite • Nmap • CyberChef • ExifTool • binwalk • zsteg  
+Burp Suite • Nmap • Nessus • Wireshark • Metasploit • TheHarvester • Hashcat • Zenmap • Subjs  
+
+**SIEM & Monitoring:**  
+Wazuh • Splunk  
 
 ---
 
@@ -88,8 +93,8 @@ flowchart TD
 ## 🎯 Current Focus
 
 - Advanced Web Exploitation  
-- Ethical Hacking  
-- Cloud & Kubernetes Security  
+- SIEM & Threat Detection  
+- Cloud Security & Kubernetes Security  
 
 ---
 
