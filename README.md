@@ -84,9 +84,6 @@ Self-hosted SIEM lab on Linux simulating and detecting real attack scenarios
 ### 📝 [VishwaCTF 2026 Writeups](https://github.com/PratikHarke/VishwaCTF-2026-writeup)
 Structured, methodology-based writeups covering Web, Crypto, Forensics & OSINT challenges
 
-### 🔐 [Cipher Encryption & Decryption](https://github.com/PratikHarke/Cipher_encyption_and_decryption)
-Classic Caesar-cipher implementation exploring hashing algorithm fundamentals
-
 ---
 
 ## 📜 Certifications
