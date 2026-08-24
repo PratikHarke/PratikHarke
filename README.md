@@ -19,7 +19,7 @@
 Final-year Computer Engineering student (B.E., 2023–2027) at Jayawantrao Sawant College of Engineering, Pune, with a focused interest in offensive security, vulnerability research, and secure software development.
 
 - 🕵️ Active bug bounty researcher on **HackerOne** and **Bugcrowd** (handle: `r4gn4r`)
-- 🥇 Ranked **Top 1% globally on TryHackMe** — ~15,778 rank · 102-day streak · 227 rooms completed
+- 🥇 Ranked **Top 1% globally on TryHackMe** — ~15,778 rank · 102-day streak · 227 rooms completed 
 - 🏁 3rd place team lead — Override.exe CTF, Scaler Ascent TechFest
 - 🏆 Finalist — Kurukshetra 2025, 24-hour National-Level Hackathon
 - 🧪 15+ hackathons across cybersecurity, AI, and software development
